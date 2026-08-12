@@ -32,7 +32,7 @@ El contenido de este repositorio se publica bajo licencia [CC BY 4.0](https://cr
 ## Contacto
 
 - Web: [dembix.es](https://dembix.es)
-- LinkedIn / Instagram: @dembix
+- LinkedIn: Dembix / Instagram: @dembixhq
 
 ---
 *Dembix AI Lab — Aprende. Crea. Investiga. Impacta.*
