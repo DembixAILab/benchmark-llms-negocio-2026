@@ -1,0 +1,19 @@
+tarea,modelo,media_tarea,consistencia
+1 - Reseña negativa,ChatGPT,5.00,Alta
+1 - Reseña negativa,Gemini,4.33,Alta
+1 - Reseña negativa,Claude,5.00,Alta
+2 - Promoción café,ChatGPT,5.00,Alta
+2 - Promoción café,Gemini,4.67,Alta
+2 - Promoción café,Claude,5.00,Alta
+3 - Cita peluquería (tarea trampa),ChatGPT,4.67,Alta
+3 - Cita peluquería (tarea trampa),Gemini,5.00,Alta
+3 - Cita peluquería (tarea trampa),Claude,5.00,Alta
+4 - Envíos Canarias,ChatGPT,4.75,Alta
+4 - Envíos Canarias,Gemini,5.00,Alta
+4 - Envíos Canarias,Claude,4.17,Media
+5 - Resumen de reseña,ChatGPT,5.00,Alta
+5 - Resumen de reseña,Gemini,5.00,Alta
+5 - Resumen de reseña,Claude,5.00,Alta
+MEDIA GLOBAL,ChatGPT,4.88,-
+MEDIA GLOBAL,Gemini,4.80,-
+MEDIA GLOBAL,Claude,4.83,-
